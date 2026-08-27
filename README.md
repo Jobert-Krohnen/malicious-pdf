@@ -187,4 +187,10 @@ python3 malicious-pdf.py https://your-interact-sh-url --obfuscate 4
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=jonaslejon/malicious-pdf&type=Date)](https://www.star-history.com/#jonaslejon/malicious-pdf&Date)
+<a href="https://www.star-history.com/?repos=jonaslejon%2Fmalicious-pdf&type=date&legend=top-left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=jonaslejon/malicious-pdf&type=date&theme=dark&legend=top-left&sealed_token=VY_tEKi3yIAP84pmUE6tu5s3k1xyKDmeQTviYucTlkfHDe2AEcKRVkGxC-l9d56dczrZdSbhIGeGiMLXu_GrxOMsRb8ej7lDpGfHL1k0JKcXAiKPFk2Mkw" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=jonaslejon/malicious-pdf&type=date&legend=top-left&sealed_token=VY_tEKi3yIAP84pmUE6tu5s3k1xyKDmeQTviYucTlkfHDe2AEcKRVkGxC-l9d56dczrZdSbhIGeGiMLXu_GrxOMsRb8ej7lDpGfHL1k0JKcXAiKPFk2Mkw" />
+    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=jonaslejon/malicious-pdf&type=date&legend=top-left&sealed_token=VY_tEKi3yIAP84pmUE6tu5s3k1xyKDmeQTviYucTlkfHDe2AEcKRVkGxC-l9d56dczrZdSbhIGeGiMLXu_GrxOMsRb8ej7lDpGfHL1k0JKcXAiKPFk2Mkw" />
+  </picture>
+</a>
